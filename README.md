@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tecnodeveloper
-- 👀 I’m interested in Frontend development,
-- 🌱 I’m currently learning Frontend development,
+- 👀 I’m interested in Web development,
+- 🌱 I’m currently learning Web development,
 - 📫 How to reach me recluzedev@gmail.com
 
 <!---
