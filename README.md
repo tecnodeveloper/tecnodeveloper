@@ -8,9 +8,6 @@ Hi 👏 I'm tecnodeveloper<br>I'm currently working on Web development<br>I'm lo
 ![](https://nirzak-streak-stats.vercel.app/?user=tecnodeveloper&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnodeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tecnodeveloper&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
