@@ -12,8 +12,6 @@ Hi 👏 I'm Zain ALi<br>I'm currently working on Backend developer<br>I'm lookin
 ![](https://nirzak-streak-stats.vercel.app/?user=tecnodeveloper&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnodeveloper&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tecnodeveloper&limit=5&theme=nord&combine_all_yearly_contributions=true)
